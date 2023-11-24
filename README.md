@@ -72,4 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # quizler
 quiz app with react
+![image](https://github.com/sejalapeno/quizler/assets/110482301/d98049e4-636a-4009-8204-0ba567888b4a)
+![image](https://github.com/sejalapeno/quizler/assets/110482301/84f2f69f-7e1f-4268-ba8b-4691b8a15ad4)
+![image](https://github.com/sejalapeno/quizler/assets/110482301/f56c9536-959a-4547-acbe-70578fc60866)
+![image](https://github.com/sejalapeno/quizler/assets/110482301/57373156-c87f-4af2-ad2b-80ffaf70a03d)
+![image](https://github.com/sejalapeno/quizler/assets/110482301/357275f6-b98a-478d-8846-d1f27e96c56a)
+
+
+
+
 
