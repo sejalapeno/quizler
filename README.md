@@ -1,7 +1,8 @@
 
 
 # quizler
-quiz app with react
+* Quiz App made with react utilising the opentdb API.
+  
 ![image](https://github.com/sejalapeno/quizler/assets/110482301/d98049e4-636a-4009-8204-0ba567888b4a)
 ![image](https://github.com/sejalapeno/quizler/assets/110482301/84f2f69f-7e1f-4268-ba8b-4691b8a15ad4)
 ![image](https://github.com/sejalapeno/quizler/assets/110482301/f56c9536-959a-4547-acbe-70578fc60866)
